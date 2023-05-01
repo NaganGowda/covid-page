@@ -1,0 +1,70 @@
+.bg-container {
+  background-color: white;
+}
+
+.heading {
+  font-size: 25px;
+}
+
+.button {
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.card {
+  background-color: #0967d219;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.heading2 {
+  font-size: 25px;
+}
+
+.heading3 {
+  font-size: 20px;
+  color: #707070;
+  padding: 10px;
+}
+
+.card1 {
+  background-color: #3ebd93;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.card2 {
+  background-color: #e668a7;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.card3 {
+  background-color: #a368fc;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.card4 {
+  background-color: #e12d3919;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.image {
+  height: 100px;
+}
+
+.kk {
+  font-weight: 500;
+}
